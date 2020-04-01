@@ -1,0 +1,33 @@
+/******************************************************************** 
+I declare that my assignment is wholly my own work in accordance with Seneca 
+Academic Policy. No part of this assignment has been copied manually or 
+electronically from any other source (including web sites) except for the 
+information supplied by the WEB222 instructors and / or made available in this 
+assignment formy use. I also declare that no part of this assignment has been distributed to other 
+students. 
+Name: Anthony John
+ Dated: 18 March 2020
+ ********************************************************************/
+.card{
+    display: inline-block;
+    margin: 3px auto;
+    opacity: 0.6;
+    transition: 0.6s;
+}
+
+
+h1{
+   
+    font-family: Impact, Charcoal, sans-serif;
+}
+
+body{
+    background-image: url("Wallpaper.jpg");
+    background-repeat: repeat;
+    background-attachment: fixed;
+}
+
+.card:hover{
+ opacity: 1;
+}
+
